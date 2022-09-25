@@ -12,7 +12,7 @@ const Main = ()=>{
             </h1>
             <p>wear is better look better than others</p>
             </Paragraph>
-            <Button> <ButtonLink to="/home">Shop Now</ButtonLink></Button>
+             <ButtonLink to="/home"> <Button>Shop Now</Button> </ButtonLink>
         </MainContainer>
     )
 }

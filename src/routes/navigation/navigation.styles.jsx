@@ -58,7 +58,7 @@ export const User = styled(FaUserCircle)`
 
 `
 export const Logo = styled(TbTriangle)`
-margin-top: 50px;
+
 color: white;
 font-size: '20px';
 background-color: blue;

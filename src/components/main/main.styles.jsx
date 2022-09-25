@@ -23,13 +23,13 @@ export const MainContainer = styled.div`
 `
 
 export const ButtonLink = styled(Link)`
+ margin-top: 30px;
  
- font-weight: 100;
- font-size: 20px;
- text-decoration: none;
- cursor: pointer;
- color: white;
- background-color: red;
+ 
+ 
+ 
+
+ 
 `
 
 export const Paragraph= styled.div`

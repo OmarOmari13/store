@@ -18,7 +18,7 @@ const Navigation = ()=>{
         <NavigationContainer>
             <Navigator>
                 <LogoContainer>
-            <span><Logo /> <LogoText>Three Angle Store</LogoText></span>
+            <span><Logo /></span>
             </LogoContainer>
             <NavLinkContainer>
             <NavLink to="/"><Heart /></NavLink>
