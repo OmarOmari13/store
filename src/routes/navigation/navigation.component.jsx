@@ -8,7 +8,7 @@ import { NavigationContainer,
         AddTOCart,
         User,
         Logo,
-        LogoText
+       
 
 } from "./navigation.styles"
 
