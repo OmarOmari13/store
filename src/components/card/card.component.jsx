@@ -1,5 +1,5 @@
 
-import { useEffect } from 'react';
+
 import {CardContainer, CardContent, Img} from './card.styles'
 
 
