@@ -24,6 +24,7 @@ export const MainContainer = styled.div`
 
 export const ButtonLink = styled(Link)`
  margin-top: 30px;
+ text-decoration: none;
  
  
  

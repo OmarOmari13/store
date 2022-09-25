@@ -26,4 +26,11 @@ export const FormContent  = styled.div`
 
  
 
-`
+
+
+ `
+
+ export const SignUpButtonContainer = styled.span`
+  margin-top:40px;
+ 
+ `

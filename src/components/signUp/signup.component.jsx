@@ -1,6 +1,7 @@
 import Button from '../button/button.component'
 
-import {FormContent} from './signup.styles'
+
+import {FormContent, SignUpButtonContainer} from './signup.styles'
 const SignUp = ()=>{
     return(
         <div>
@@ -14,7 +15,10 @@ const SignUp = ()=>{
                 <input type="email" placeholder='email'/>
                 <span>Password</span>
                 <input type="password" placeholder='password'/>
-                <Button>Sign UP</Button>
+                <SignUpButtonContainer>
+
+                <Button> Sign UP </Button>
+                </SignUpButtonContainer>
                 </FormContent>
             </form>
         </div>
