@@ -23,7 +23,7 @@ const Dropdown = ()=>{
                 <FilterSelect onClick={dorpdownOpen}>
                     <div>
                     {
-                        isSelectOption || "Defalut"
+                        isSelectOption || "Default"
                     }
                     </div>
                     <div>
